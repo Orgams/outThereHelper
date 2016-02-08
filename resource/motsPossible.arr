@@ -1,0 +1,1 @@
+["ami", "amour", "bon", "dieu", "donner", "etoile", "fer", "juges/architectes", "mal", "mort", "NOMPEUPLE", "nous", "peuple", "peur", "technologie", "toi", "vie", "vouloir"]
