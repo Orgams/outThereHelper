@@ -21,8 +21,7 @@ var resource = {
   },
   sauver: function(nomDeFicher, data) {
     resource.fs.writeFile('resource/'+nomDeFicher, JSON.stringify(data), function (err) {
-      if (err) $('body').notify({message: err,type: 'danger'});
-      else $('body').notify({message: "It's saved!",type: 'success'});
+      if (err) $('body').notify({message: "erreur : "+err,type: 'danger'});
     });
   },
   supprimer: function(nomDeFicher){
