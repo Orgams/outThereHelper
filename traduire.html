@@ -21,13 +21,13 @@
     <section ng-controller="tradCtrl">
       <div class="form-group col-xs-10 col-xs-push-1">
         <label>Code d'identification du dialogue</label>
-        <input type="text" class="codeDialogue form-control" placeholder="3-4" ng-model="codeDialogue" ng-change="cherhcerDialogue()">
+        <input type="text" class="form-control" placeholder="3-4" ng-model="codeDialogue" ng-change="cherhcerDialogue()">
         <label>Texte pour remplacer les mots comprehensibles</label>
-        <textarea class="textDialogue form-control" rows="5" ng-model="textDialogue"></textarea>
+        <textarea class="form-control" rows="5" ng-model="textDialogue"></textarea>
       </div>
       <div class="btn-group col-xs-6 col-xs-push-3" data-toggle="buttons">
-        <button class="btn btn-primary traiterDialogue" type="button" ng-click="traiterDialogue()">Enregistrer les mots traduit</button>
-        <button class="btn btn-primary supprimerDialogue" type="button" ng-click="supprimerDialogue()">Nouvelle partie</button>
+        <button class="btn btn-primary" type="button" ng-click="traiterDialogue()">Enregistrer les mots traduit</button>
+        <button class="btn btn-primary" type="button" ng-click="supprimerDialogue()">Nouvelle partie</button>
       </div>
     </section>
   </body>
