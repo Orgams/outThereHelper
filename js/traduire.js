@@ -12,10 +12,12 @@ $(function() {
       }
     }
     resource.sauver("dico.json",dico);
+    notification("Mots sauvé");
   })
 
   $("button.supprimerDialogue").click(function() {
     resource.supprimer("dico.json");
+    notification("Dialogue supprimé");
   });
 
   $("input.codeDialogue").keyup(function() {

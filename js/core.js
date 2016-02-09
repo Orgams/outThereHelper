@@ -17,3 +17,13 @@ function traduire(texte) {
   }
   return texte;
 }
+
+function notification(text){
+  $.notify(text, {
+    newest_on_top: true,
+    animate: {
+        enter: 'animated fadeInRight',
+        exit: 'animated bounceOutUp'
+    }
+  });
+}
