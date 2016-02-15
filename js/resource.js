@@ -1,4 +1,5 @@
 String.prototype.contains = function(it) { return this.indexOf(it) != -1; };
+
 var resource = {
   fs: require('fs'),
   charger: function(nomDeFicher) {

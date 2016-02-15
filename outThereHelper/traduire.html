@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr" ng-app="app">
+  <head>
+    <title>Aide pour Out There</title>
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap-notify.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/core.js"></script>
+    <script src="js/resource.js"></script>
+    <script src="js/traduire.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+  </head>
+  <body>
+    <ul class="nav nav-tabs col-xs-10 col-xs-push-1">
+      <li role="presentation" class="active"><a href="#">Traduire</a></li>
+      <li role="presentation"><a href="question.html">Question</a></li>
+      <li role="presentation"><a href="metaux.html">Metaux</a></li>
+    </ul>
+    <section ng-controller="tradCtrl">
+      <div class="form-group col-xs-10 col-xs-push-1">
+        <label>Code d'identification du dialogue</label>
+        <input type="text" class="form-control" placeholder="3-4" ng-model="codeDialogue" ng-change="cherhcerDialogue()">
+        <label>Texte pour remplacer les mots comprehensibles</label>
+        <textarea class="form-control" rows="5" ng-model="textDialogue"></textarea>
+      </div>
+      <div class="btn-group col-xs-6 col-xs-push-3" data-toggle="buttons">
+        <button class="btn btn-primary" type="button" ng-click="traiterDialogue()">Enregistrer les mots traduit</button>
+        <button class="btn btn-primary" type="button" ng-click="supprimerDialogue()">Nouvelle partie</button>
+      </div>
+    </section>
+  </body>
+</html>

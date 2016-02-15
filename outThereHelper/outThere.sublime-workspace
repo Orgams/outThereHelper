@@ -1,0 +1,1359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"left",
+				"left=0"
+			],
+			[
+				"ar",
+				"arg2"
+			],
+			[
+				"pr",
+				"project	(coribudg.xml)"
+			],
+			[
+				"dep",
+				"depends"
+			],
+			[
+				"arg",
+				"arg2"
+			],
+			[
+				"va",
+				"validargs"
+			],
+			[
+				"Ex",
+				"Execute	(database.xml)"
+			],
+			[
+				"val",
+				"value	(coribudg.xml)"
+			],
+			[
+				"pa",
+				"param"
+			],
+			[
+				"ant",
+				"antcall	(coribudg.xml)"
+			],
+			[
+				"in",
+				"input	(coribudg.xml)"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"conf",
+				"configDb"
+			],
+			[
+				"de",
+				"defaultvalue	(inputs.xml)"
+			],
+			[
+				"cori",
+				"coribudg"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"envan",
+				"ENVEANN"
+			],
+			[
+				"In",
+				"Install"
+			],
+			[
+				"maj",
+				"majVues	(generateur.xml)"
+			],
+			[
+				"PB",
+				"PBMG"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"drop",
+				"dropbox"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pre",
+				"prepareParamPattern"
+			],
+			[
+				"mat",
+				"materiel"
+			],
+			[
+				"tab",
+				"tableau"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"di",
+				"disponible"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"cons",
+				"constante"
+			],
+			[
+				"sel",
+				"selectFirstSlot"
+			],
+			[
+				"for",
+				"forp	for k,v in pairs()"
+			],
+			[
+				"lis",
+				"listeConstruction"
+			],
+			[
+				"p",
+				"point1"
+			],
+			[
+				"cu",
+				"Cube"
+			],
+			[
+				"po",
+				"point2"
+			],
+			[
+				"en",
+				"entreMethode"
+			],
+			[
+				"ex",
+				"supExtention"
+			],
+			[
+				"X",
+				"Xmx2048m"
+			],
+			[
+				"holder",
+				"holders"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"meth",
+				"sortieMethode"
+			],
+			[
+				"is",
+				"isFuelOk"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"posi",
+				"positionDepart"
+			],
+			[
+				"se",
+				"setPositionNextPuit"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"st",
+				"stockage"
+			],
+			[
+				"e",
+				"exists"
+			],
+			[
+				"get",
+				"getComputerID"
+			],
+			[
+				"retour",
+				"retoure"
+			],
+			[
+				"ni",
+				"nilVersVide"
+			],
+			[
+				"fu",
+				"function	function"
+			],
+			[
+				"c",
+				"chemin"
+			],
+			[
+				"dir",
+				"directionGauche"
+			],
+			[
+				"no",
+				"nomApi"
+			],
+			[
+				"nom",
+				"nomApi"
+			],
+			[
+				"direc",
+				"direction"
+			],
+			[
+				"depl",
+				"deplacementY"
+			],
+			[
+				"direction",
+				"direction"
+			],
+			[
+				"all",
+				"allerHauteur"
+			],
+			[
+				"select",
+				"selectFirstSlot"
+			],
+			[
+				"dire",
+				"direction"
+			],
+			[
+				"cont",
+				"contains"
+			],
+			[
+				"nb",
+				"nbTranfert"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"directionD",
+				"directionDeriere"
+			],
+			[
+				"s",
+				"sortieMethode"
+			],
+			[
+				"b",
+				"bloc"
+			],
+			[
+				"directio",
+				"directionGauche"
+			],
+			[
+				"verif",
+				"veriferFuel"
+			],
+			[
+				"d",
+				"debug"
+			],
+			[
+				"sor",
+				"sortieMethode"
+			],
+			[
+				"der",
+				"derriere"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 339,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "question.html",
+			"settings":
+			{
+				"buffer_size": 750,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "traduire.html",
+			"settings":
+			{
+				"buffer_size": 1184,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/traduire.js",
+			"settings":
+			{
+				"buffer_size": 759,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/question.js",
+			"settings":
+			{
+				"buffer_size": 244,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/resource.js",
+			"settings":
+			{
+				"buffer_size": 843,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/core.js",
+			"settings":
+			{
+				"buffer_size": 538,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "sql",
+		"selected_items":
+		[
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ant",
+				"Set Syntax: Ant"
+			],
+			[
+				"date",
+				"Preferences: InsertDate Keybindings - Default"
+			],
+			[
+				"xsd",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"q",
+				"Set Syntax: SQL"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"reg",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"c",
+				"Set Syntax: C#"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"ssxh",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"s",
+				"Set Syntax: SQL"
+			],
+			[
+				"j",
+				"Set Syntax: Java"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"ss c#",
+				"Set Syntax: C#"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"u",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss",
+				"Set Syntax: Lua"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"l",
+				"Set Syntax: Lua"
+			],
+			[
+				"ssl",
+				"Set Syntax: Lua"
+			],
+			[
+				"lu",
+				"Set Syntax: Lua"
+			],
+			[
+				"mer",
+				"Sublimerge"
+			],
+			[
+				"su",
+				"Sublimerge"
+			],
+			[
+				"subli",
+				"Sublimerge"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/A453162/Desktop/outThere",
+		"/H/nodeJs/outThere",
+		"/H/nodeJs/outThere/js"
+	],
+	"file_history":
+	[
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_23103/analyse/test KRA/flux avec 6 pièces sur 12/flux sans data.xml",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_23103/analyse/test KRA/résumé.txt",
+		"/H/nodeJs/outThere/js/script.js",
+		"/H/nodeJs/outThere/index.html",
+		"/E/nodeJs/outThere/index.html",
+		"/E/nodeJs/outThere/js/script.js",
+		"/C/Users/A453162/Desktop/outThere/resource/dialogues.json",
+		"/C/Users/A453162/Desktop/outThere/resource/test.json",
+		"/C/Users/A453162/Desktop/outThere/resource/questions1.arr",
+		"/C/Users/A453162/Desktop/outThere/resource/tmp.json",
+		"/C/Users/A453162/Desktop/outThere/resources/motsPossible.arr",
+		"/C/Users/A453162/Desktop/outThere/resources/motsPossible.json",
+		"/C/Users/A453162/Desktop/outThere/locales/fr.pak",
+		"/C/Users/A453162/Desktop/test/test.json",
+		"/C/Users/A453162/Desktop/test/js/main.js",
+		"/C/Users/A453162/Desktop/test/index.html",
+		"/C/Users/A453162/Desktop/test/package.json",
+		"/C/Users/A453162/Desktop/test/message.txt",
+		"/C/Users/A453162/Desktop/nwjs-v0.12.3-win-x64/nw-helloworld/index.html",
+		"/E/LiberKey/MyDocuments/data/targets/tachesSpecifique.xml",
+		"/E/LiberKey/MyDocuments/data/targets/build.xml",
+		"/E/LiberKey/MyDocuments/Fiches/Coribudg/ano_22520/analyse/MAR_00_2014_DM-2_P_2016-02-02_11-02.xml",
+		"/E/LiberKey/MyDocuments/Fiches/Coribudg/ano_22520/analyse/MAR_00_2014_DM-2_P_2016-02-02_08-18.xml",
+		"/E/LiberKey/MyDocuments/Fiches/Coribudg/ano_22520/test local/MAR_00_2014_DM-2_P_2016-02-02_14-44.xml",
+		"/C/Users/A453162/Desktop/nwjs-v0.12.3-win-x64/nw-helloworld/package.json",
+		"/C/Users/A453162/Desktop/nwjs-v0.12.3-win-x64/index.html",
+		"/E/LiberKey/MyDocuments/data/properties/MR_47_PROD_NANTES.properties",
+		"/E/LiberKey/MyDocuments/data/regexe/LigneBudgetaire.re",
+		"/E/LiberKey/MyDocuments/Fiches/Coribudg/ano_22520/analyse/cas_IB6283_fonc411-chap011.sql",
+		"/E/eclipse/workspace/CoribudgTrunk/distribution/target/V1.7.11/V1.7.11/properties/coribudg-default.properties",
+		"/E/eclipse/workspace/CoribudgTrunk/distribution/target/V1.7.11/V1.7.11/sql/CORIBUDG_VIEW_CORIOLIS.sql",
+		"/E/LiberKey/MyDocuments/Fiches/Coribudg/ano_22520/analyse/coriolis.properties",
+		"/E/eclipse/workspace/CoribudgTrunk/distribution/target/V1.7.11/V1.7.11/sql/createviewPourSqlPlus.sql",
+		"/E/eclipse/workspace/CoribudgTrunk/distribution/target/V1.7.11/V1.7.11/properties/liste-version-coribudg.properties",
+		"/E/eclipse/workspace/CoribudgTrunk/distribution/target/V1.7.11/V1.7.11/properties/coribudg.properties",
+		"/E/LiberKey/MyDocuments/data/properties/P47_VDM.properties",
+		"/E/apache-tomcat-DEV/conf/coribudg/coribudg.properties",
+		"/C/Users/A453162/AppData/Local/Temp/CORIBUDG_VIEW_CORIOLIS.sql-revHEAD.svn002.tmp.sql",
+		"/C/Users/A453162/AppData/Local/Temp/structure.sql-revHEAD.svn001.tmp.sql",
+		"/C/Users/A453162/AppData/Local/Temp/1_structure.sql-revHEAD.svn001.tmp.sql",
+		"/E/LiberKey/MyDocuments/Fiches/Coribudg/ano_22520/ordre des etape.sql",
+		"/E/LiberKey/MyDocuments/Fiches/Coribudg/ano_22520/cas_IB6283_fonc411-chap011.sql",
+		"/E/LiberKey/MyDocuments/data/sql/CoriolisLoginTrouver.sql",
+		"/E/LiberKey/MyApps/jeux/RogueLike/cataclysm/config/options.txt",
+		"/E/LiberKey/MyApps/jeux/RogueLike/COGMIND (Alpha 6)/manual.txt",
+		"/C/Users/A453162/Desktop/burgerBar.csv",
+		"/E/LiberKey/MyApps/Sublime Text/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/E/LiberKey/MyApps/Sublime Text/Data/Packages/Alignment/Base File.sublime-settings",
+		"/E/LiberKey/MyApps/Sublime Text/Data/Packages/User/Plain text.sublime-settings",
+		"/E/eclipse/workspace/CoripesTrunk/connectors/GED-AgentGed/compile.bat",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/conf/coripes int1/coripes.properties",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/conf/coripes int2/coripes.properties",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/coripes.log",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/coripes-error.log",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/coripes-warning.log",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/coripes-information.log",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/coripes/hibernate.cfg.xml",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/coripes/coripes.properties",
+		"/E/eclipse/workspace/CoripesTrunk/coripes/coripes-web/compile.bat",
+		"/E/LiberKey/MyApps/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/E/LiberKey/MyApps/Sublime Text/Packages/C#.sublime-package",
+		"/E/eclipse/workspace/CoripesTrunk/coripes/pom.xml",
+		"/E/eclipse/workspace/CoripesTrunk/distribution/pom.xml",
+		"/E/apache-tomcat-DEV/conf/coripes/configuration_securite.xml",
+		"/E/apache-tomcat-DEV/conf/coripes/hibernate.cfg.xml",
+		"/E/eclipse/workspace/CoripesTrunk/distribution/compile.bat",
+		"/Z/Base-CRA/SCHEMATS.txt",
+		"/E/LiberKey/MyApps/dir.bat",
+		"/E/apache-tomcat-DEV/conf/coripes/coripes.properties",
+		"/E/LiberKey/MyApps/mesureTempsBat.bat",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/localhost.log",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/catalina.log",
+		"/Z/Base-CRA/CHARGER_VUES_APRES_IMPORT.txt",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/coripes15012016-error.log",
+		"/C/Users/A453162/.gitconfig",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/coripes15012016.log",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22743/coripes15012016-warn-metadonnéesNonPresanteDansAgentged.properties.log",
+		"/E/wamp/bin/php/php5.5.12/php.ini",
+		"/Z/LiberKey/MyDocuments/data/sql/Coripes35LoginAdmin.sql",
+		"/H/CIMAIL/login.properties",
+		"/C/Users/A453162/Desktop/test.txt",
+		"/M/Files/MMO/Coripes/branches/3.5_maint/Databases/DBScripts/Oracle/coripes/3.5.0.5/100_ressources.sql",
+		"/E/LiberKey/MyApps/pdf-text-extractor/key.txt",
+		"/E/Users/MONCHO-M/Desktop/tmp.sql",
+		"/E/Users/MONCHO-M/Desktop/flux de test ligne annulation.xml",
+		"/E/Users/MONCHO-M/Desktop/flux de test.xml",
+		"/E/LiberKey/MyDocuments/sql/V5/Reprise-StatusFluxAquite.sql",
+		"/E/LiberKey/MyDocuments/sql/V5/workflow (2).sql",
+		"/C/Users/A453162/Desktop/svn/4.7.0.4_val/Serveur_Pres/web/defaultroot/js/coriolis.moteur.js",
+		"/H/LiberKey/MyApps/lisezmoi.txt",
+		"/E/LiberKey/MyDocuments/sql/V5/Reprise-StatusFluxAquite.txt",
+		"/E/LiberKey/MyDocuments/sql/V5/ResetReprise+delFlux.sql",
+		"/E/LiberKey/MyDocuments/sql/V5/regénérerUnFlux.sql",
+		"/C/Users/A453162/Desktop/svn/4.7_maint/Serveur_Pres/web/defaultroot/js/coriolis.moteur.js",
+		"/C/Users/A453162/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/SSYJBKTY/jshint-output.log",
+		"/E/eclipse/workspace/CoripesTrunk/distribution/src/main/cfg/coripes/agentged.properties",
+		"/E/eclipse/workspace/CoribudgTrunk/coribudg-generation/pom.xml",
+		"/E/eclipse/workspace/CoribudgTrunk/pom.xml",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22725/analyse/requeteMarche.sql",
+		"/E/eclipse/workspace/CoripesTrunk/compile.cmd",
+		"/E/LiberKey/MyDocuments/data/properties/D46_DEV.properties",
+		"/E/apache-tomcat-DEV/conf/coripes/agentged.properties",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_22725/analyse/requeteMarche.txt",
+		"/E/LiberKey/MyDocuments/Fiches/archive fiches/ano_16188/integ MAR_00_2013_CA_E_2014-04-30_15-25.xml",
+		"/E/LiberKey/MyDocuments/Fiches/archive fiches/evo 14290/modif local 25p CRA_00_2013_BP_P_2013-12-13_16-28.xml",
+		"/E/LiberKey/MyDocuments/Fiches/archive fiches/ano_18299/18299.txt",
+		"/E/LiberKey/MyDocuments/Fiches/Coripes/ano_Fiche_Cra_Reg/analyse/coridemat.properties",
+		"/E/apache-tomcat-DEV/conf/coripes/coripes1.properties",
+		"/E/apache-tomcat-DEV/conf/coripes/dev.properties",
+		"/E/apache-tomcat-DEV/conf/coripes/hibernate-coripes.cfg.xml",
+		"/E/apache-tomcat-DEV/conf/coribudg/hibernate.cfg.xml",
+		"/E/apache-tomcat-DEV/conf/coribudg/hibernate-coribudg.cfg.xml",
+		"/E/LiberKey/MyDocuments/Fiches/Coriolis/ano_5513/testIntégration/visuCartouche.sql",
+		"/E/LiberKey/MyDocuments/data/properties/PES_V35_AMIENS_MONO_ORA11.properties",
+		"/E/LiberKey/MyDocuments/data/properties/PES_V35_CAPL_WIN_ORA10.properties",
+		"/E/LiberKey/MyDocuments/Fiches/Coriolis/ano_5513/coriolis.properties",
+		"/E/LiberKey/MyDocuments/Fiches/Coriolis/ano_5513/visuCartouche.sql",
+		"/E/LiberKey/MyDocuments/data/properties/PES_I35_CG24.properties",
+		"/E/LiberKey/MyDocuments/data/sql/CoridematUtilisateurVisu.sql",
+		"/E/LiberKey/MyDocuments/data/properties/PES_V35_CG24_MONO_ORA11.properties",
+		"/E/LiberKey/MyDocuments/Fiches/Coriolis/ano_5513/CoriolisLoginTrouver.sql",
+		"/E/LiberKey/MyDocuments/data/properties/D47_DEV.properties",
+		"/E/apache-tomcat-coriolis/conf/server.xml",
+		"/E/apache-tomcat-6.0.35/conf/tomcat-users.xml",
+		"/E/apache-tomcat-coriolis/conf/tomcat-users.xml",
+		"/E/apache-tomcat-DEV/conf/tomcat-users.xml",
+		"/E/LiberKey/MyDocuments/Fiches/ano_22501/getMandatWithoutOperation.sql",
+		"/E/LiberKey/MyDocuments/Fiches/ano_22459/analyse/060_00_2015_BP_P_2015-11-19_12-18.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\eclipse\\workspace\\CoribudgTrunk\\,pom.xml",
+			"E:\\eclipse\\workspace\\CoribudgTrunk\\,*.pom",
+			"E:\\eclipse\\workspace\\CoribudgTrunk\\coribudg,*.pom",
+			"E:\\eclipse\\workspace\\CoribudgTrunk\\coribudg\\coribudg-web\\src\\main\\resources\\app",
+			"C:\\Users\\A453162\\Desktop\\Integration\\Distribution\\targets",
+			"C:\\Users\\A453162\\Desktop\\Integration",
+			"E:\\eclipse\\workspace\\CoribudgTrunk",
+			"E:\\eclipse\\workspace\\CoribudgTrunk\\coribudg",
+			"E:\\eclipse\\workspace\\CoribudgTrunk",
+			"E:\\eclipse\\workspace\\CoribudgTrunk\\distribution\\src\\main\\target",
+			"E:\\eclipse\\workspace\\CoribudgTrunk,-E:\\eclipse\\workspace\\CoribudgTrunk\\coribudg-generation\\",
+			"E:\\eclipse\\workspace\\CoribudgTrunk",
+			"C:\\Users\\A453162\\Desktop\\schema_doc_budg_V75",
+			"E:\\eclipse\\workspace\\CoribudgTrunk",
+			"E:\\eclipse\\workspace\\CoribudgTrunk,-*.xhtml",
+			"E:\\eclipse\\workspace\\CoribudgTrunk",
+			"<current file>",
+			"E:\\eclipse\\workspace\\Servers\\Coribudg-config",
+			"E:\\eclipse\\workspace\\CoribudgTrunk",
+			"E:\\eclipse\\workspace\\CORIBUDG",
+			"",
+			"D:\\pause midi\\Jeux\\minecraft\\computerCraft"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</Contenu>",
+			"Contenu",
+			":",
+			"dialogues",
+			"\"]",
+			"budgmonrat",
+			"budgmonratrat",
+			"from",
+			"budgmonrat",
+			" *<LigneBudget>\n( *<Nature V=\"6283\"/>\n)?( *<LibCpte V=\".*\"/>\n)?( *<Fonction V=\"411\"/>\n)?( *<Operation V=\".*\"/>\n)?( *<ContNat V=\"011\"/>\n)?( *<ContFon V=\".*\"/>\n)?( *<ArtSpe V=\".*\"/>\n)?( *<ContOp V=\".*\"/>\n)?( *<CodRD V=\".*\"/>\n)?( *<MtBudgPrec V=\".*\"/>\n)?( *<MtRARPrec V=\".*\"/>\n)?( *<MtPropNouv V=\".*\"/>\n)?( *<MtPrev V=\".*\"/>\n)?( *<CredOuv V=\".*\"/>\n)?( *<MtReal V=\".*\"/>\n)?( *<MtRAR3112 V=\".*\"/>\n)?( *<OpBudg V=\".*\"/>\n)?( *<TypOpBudg V=\".*\"/>\n)?( *<OpeCpteTiers V=\".*\"/>\n)?( *<MtSup Code=\"MtOpeCumul( V=\".*\")?\"/>\n)?( *<MtSup Code=\"ProdChaRat\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNE\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNEPrec\"( V=\".*\")?/>\n)?( *<MtSup Code=\"BudgetHorsRAR\"( V=\".*\")?/>\n)?( *<MtSup Code=\"RARPrec\"( V=\".*\")?/>\n)?( *<CaracSup Code=\"ChapSpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"TypOpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoNum\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoLib\" V=\".*\"/>\n)? *</LigneBudget>",
+			" *<LigneBudget>\n( *<Nature V=\"6283.*\"/>\n)?( *<LibCpte V=\".*\"/>\n)?( *<Fonction V=\".*\"/>\n)?( *<Operation V=\".*\"/>\n)?( *<ContNat V=\".*\"/>\n)?( *<ContFon V=\".*\"/>\n)?( *<ArtSpe V=\".*\"/>\n)?( *<ContOp V=\".*\"/>\n)?( *<CodRD V=\".*\"/>\n)?( *<MtBudgPrec V=\".*\"/>\n)?( *<MtRARPrec V=\".*\"/>\n)?( *<MtPropNouv V=\".*\"/>\n)?( *<MtPrev V=\".*\"/>\n)?( *<CredOuv V=\".*\"/>\n)?( *<MtReal V=\".*\"/>\n)?( *<MtRAR3112 V=\".*\"/>\n)?( *<OpBudg V=\".*\"/>\n)?( *<TypOpBudg V=\".*\"/>\n)?( *<OpeCpteTiers V=\".*\"/>\n)?( *<MtSup Code=\"MtOpeCumul( V=\".*\")?\"/>\n)?( *<MtSup Code=\"ProdChaRat\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNE\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNEPrec\"( V=\".*\")?/>\n)?( *<MtSup Code=\"BudgetHorsRAR\"( V=\".*\")?/>\n)?( *<MtSup Code=\"RARPrec\"( V=\".*\")?/>\n)?( *<CaracSup Code=\"ChapSpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"TypOpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoNum\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoLib\" V=\".*\"/>\n)? *</LigneBudget>",
+			" *<LigneBudget>\n( *<Nature V=\".*\"/>\n)?( *<LibCpte V=\".*\"/>\n)?( *<Fonction V=\".*\"/>\n)?( *<Operation V=\".*\"/>\n)?( *<ContNat V=\".*\"/>\n)?( *<ContFon V=\".*\"/>\n)?( *<ArtSpe V=\".*\"/>\n)?( *<ContOp V=\".*\"/>\n)?( *<CodRD V=\".*\"/>\n)?( *<MtBudgPrec V=\".*\"/>\n)?( *<MtRARPrec V=\".*\"/>\n)?( *<MtPropNouv V=\".*\"/>\n)?( *<MtPrev V=\".*\"/>\n)?( *<CredOuv V=\".*\"/>\n)?( *<MtReal V=\".*\"/>\n)?( *<MtRAR3112 V=\".*\"/>\n)?( *<OpBudg V=\".*\"/>\n)?( *<OpeCpteTiers V=\".*\"/>\n)?( *<TypOpBudg V=\".*\"/>\n)?( *<MtSup Code=\"MtOpeCumul\"( V=\".*\")?/>\n)?( *<MtSup Code=\"ProdChaRat\"( V=\".*\")?/>\n)?( *<MtSup Code=\"ICNE\"( V=\".*\")?/>\n)?( *<MtSup Code=\"ICNEPrec\"( V=\".*\")?/>\n)?( *<MtSup Code=\"BudgetHorsRAR\"( V=\".*\")?/>\n)?( *<MtSup Code=\"RARPrec\"( V=\".*\")?/>\n)?( *<CaracSup Code=\"ChapSpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"TypOpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoNum\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoLib\" V=\".*\"/>\n)? *</LigneBudget>",
+			" *<LigneBudget>\n( *<Nature V=\"6283.*\"/>\n)?( *<LibCpte V=\".*\"/>\n)?( *<Fonction V=\".*\"/>\n)?( *<Operation V=\".*\"/>\n)?( *<ContNat V=\".*\"/>\n)?( *<ContFon V=\".*\"/>\n)?( *<ArtSpe V=\".*\"/>\n)?( *<ContOp V=\".*\"/>\n)?( *<CodRD V=\".*\"/>\n)?( *<MtBudgPrec V=\".*\"/>\n)?( *<MtRARPrec V=\".*\"/>\n)?( *<MtPropNouv V=\".*\"/>\n)?( *<MtPrev V=\".*\"/>\n)?( *<CredOuv V=\".*\"/>\n)?( *<MtReal V=\".*\"/>\n)?( *<MtRAR3112 V=\".*\"/>\n)?( *<OpBudg V=\".*\"/>\n)?( *<OpeCpteTiers V=\".*\"/>\n)?( *<TypOpBudg V=\".*\"/>\n)?( *<MtSup Code=\"MtOpeCumul (V=\".*\")?\"/>\n)?( *<MtSup Code=\"ProdChaRat\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNE\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNEPrec\"( V=\".*\")?/>\n)?( *<CaracSup Code=\"ChapSpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"TypOpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoNum\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoLib\" V=\".*\"/>\n)? *</LigneBudget>",
+			" *<LigneBudget>\n( *<Nature V=\".*\"/>\n)?( *<LibCpte V=\".*\"/>\n)?( *<Fonction V=\".*\"/>\n)?( *<Operation V=\".*\"/>\n)?( *<ContNat V=\".*\"/>\n)?( *<ContFon V=\".*\"/>\n)?( *<ArtSpe V=\".*\"/>\n)?( *<ContOp V=\".*\"/>\n)?( *<CodRD V=\".*\"/>\n)?( *<MtBudgPrec V=\".*\"/>\n)?( *<MtRARPrec V=\".*\"/>\n)?( *<MtPropNouv V=\".*\"/>\n)?( *<MtPrev V=\".*\"/>\n)?( *<CredOuv V=\".*\"/>\n)?( *<MtReal V=\".*\"/>\n)?( *<MtRAR3112 V=\".*\"/>\n)?( *<OpBudg V=\".*\"/>\n)?( *<OpeCpteTiers V=\".*\"/>\n)?( *<TypOpBudg V=\".*\"/>\n)?( *<MtSup Code=\"MtOpeCumul (V=\".*\")?\"/>\n)?( *<MtSup Code=\"ProdChaRat\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNE\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNEPrec\"( V=\".*\")?/>\n)?( *<CaracSup Code=\"ChapSpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"TypOpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoNum\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoLib\" V=\".*\"/>\n)? *</LigneBudget>",
+			" *<LigneBudget>\n( *<Nature V=\"6283.*\"/>\n)?( *<LibCpte V=\".*\"/>\n)?( *<Fonction V=\".*\"/>\n)?( *<Operation V=\".*\"/>\n)?( *<ContNat V=\".*\"/>\n)?( *<ContFon V=\".*\"/>\n)?( *<ArtSpe V=\".*\"/>\n)?( *<ContOp V=\".*\"/>\n)?( *<CodRD V=\".*\"/>\n)?( *<MtBudgPrec V=\".*\"/>\n)?( *<MtRARPrec V=\".*\"/>\n)?( *<MtPropNouv V=\".*\"/>\n)?( *<MtPrev V=\".*\"/>\n)?( *<CredOuv V=\".*\"/>\n)?( *<MtReal V=\".*\"/>\n)?( *<MtRAR3112 V=\".*\"/>\n)?( *<OpBudg V=\".*\"/>\n)?( *<OpeCpteTiers V=\".*\"/>\n)?( *<TypOpBudg V=\".*\"/>\n)?( *<MtSup Code=\"MtOpeCumul (V=\".*\")?\"/>\n)?( *<MtSup Code=\"ProdChaRat\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNE\" V=\".*\"/>\n)?( *<MtSup Code=\"ICNEPrec\"( V=\".*\")?/>\n)?( *<CaracSup Code=\"ChapSpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"TypOpe\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoNum\" V=\".*\"/>\n)?( *<CaracSup Code=\"ProgAutoLib\" V=\".*\"/>\n)? *</LigneBudget>",
+			"<MtSup Code=\"BudgetHorsRAR\"",
+			"<MtSup Code=\"BudgetHorsRAR\" V=\"106303.92\"/>",
+			"106303.92",
+			"<MtSup Code=\"BudgetHorsRAR\" V=\"106303.92\"/>",
+			"hei",
+			"heith",
+			"heigth",
+			"//",
+			"    ",
+			" +\n",
+			" +",
+			"    ",
+			"}   ",
+			"\"",
+			"System.DateTime",
+			"string",
+			"bool",
+			"Operateur = new List<RechercheInGedDdl>(operateurs)",
+			"metadonneeRecherches.Add(new MetadonneeRecherche() { Operateur = new List<RechercheInGedDdl>(operateurs)",
+			"Code =",
+			"Operateur = new",
+			");",
+			" Text = ",
+			". ",
+			", ",
+			"!important",
+			"..",
+			"\n.\n",
+			".\n.\n",
+			"^\\*",
+			"^*",
+			"^ +",
+			"\n .\n",
+			"\n.\n",
+			"-{2,}",
+			"--",
+			"combat",
+			" *$",
+			"sql",
+			"\"+",
+			"\"+\n\"\"+\n\"",
+			"\"\n",
+			"-",
+			" ",
+			"-",
+			" ?",
+			".",
+			"13",
+			"return",
+			"getStringRepresentationForKeyCode",
+			"ctrl",
+			"highlighted",
+			"highlight",
+			"high",
+			"hightlighted",
+			", ",
+			"&",
+			",",
+			"PROFILING OBJETCORIOLIS",
+			"[INFO]",
+			"[WARN]",
+			"warn",
+			"DIR",
+			"FilterChainProxy",
+			"[WARN]",
+			"[ERROR]",
+			"[INFO]",
+			" a été ignorée : elle n'est pas dans le fichier agentged.properties",
+			" n'a pas pu être récuperer : elle n'est pas dans le fichier agentged.properties",
+			"[WARN]",
+			"ERROR",
+			"extens",
+			" +",
+			"\n ",
+			"    ",
+			";;",
+			";.+?;;",
+			"\n",
+			"ecritureNonVisible",
+			" > ",
+			"#cfcfcf",
+			"ecriture2",
+			"#b92659",
+			"ecriture",
+			"#66d9ef",
+			"#272822",
+			"#",
+			"fond",
+			"#1e1e1e",
+			"#FFFFFF",
+			"; \n",
+			"  ",
+			";",
+			"}",
+			"\n",
+			"   ",
+			"\n}\n",
+			"\n{\n",
+			"\n\n",
+			"   ",
+			"\n{\n",
+			"\n\n",
+			",",
+			"\"",
+			"\\(.*?\\)",
+			"pj",
+			"p.",
+			"p ",
+			"",
+			"p.",
+			",",
+			"\"",
+			"collCod"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			" ",
+			"phase.rep",
+			"coridemat",
+			"carre",
+			"Carre",
+			"1.7.10.2",
+			"1.7.10.1",
+			"&ocirc;",
+			"&agrave;",
+			"&egrave;",
+			"&eacute;",
+			"repertoire.properties",
+			"${repProperties}",
+			"$2;$4;$6;$8;$10;$12;$14;$16;$18;$20;$22;$24;$26;$28;$30;$32;$34;$36;$38",
+			"$2;$4;$6;$8;$10;$12;$14;$16;$18;$20;$22;$24",
+			"$2$4$6$8$10$12$14$16$18$20$22$24",
+			"V=\"(.*)\"",
+			"$2;$4;$6;$8;$10;$12;$14;$16;$18;$20;$22;$24;$26;$28;$30;$32;$34",
+			",",
+			"$2;$4;$6;$8;$10;$12;$14;$16;$18;$20;$22;$24;$26;$28;$30;$32;$34",
+			",",
+			"$2;$4;$6;$8;$10;$12;$14;$16;$18;$20;$22;$24;$26;$28;$30;$32;$34",
+			",",
+			"$2;$4;$6;$8;$10;$12;$14;$16;$18;$20;$22;$24;$26;$28;$30;$32;$34",
+			" ",
+			"1",
+			"$1,{url:'www.google.fr',nom:'\" + FavoriLink + \"'}$2",
+			"gmd-business",
+			"gmd-api",
+			"gmd-delegate",
+			"gmd-business",
+			"core-model",
+			"core-business",
+			"PES_",
+			"RattAnnulesN",
+			"CpAnnulesN",
+			"CpMandatesN",
+			"$1",
+			"-Durl=\"$url\" -Dport=\"$port\" -Dssid=\"$sid\" -Duser=\"$user\" -Dmdp=\"$pass\" -DurlCorio=\"$urlCorio\" -DportCorio=\"$portCorio\" -DssidCorio=\"$sidCorio\" -DuserCorio=\"$userCorio\" -DmdpCorio=\"$passCorio\"",
+			"\n\n",
+			"\n",
+			"-Durl=%url% -Dport=%port% -Dssid=%ssid% -Duser=%user% -Dmdp=%pass% -DurlCorio=%urlCorio% -DportCorio=%portCorio% -DssidCorio=%ssidCorio% -DuserCorio=%userCorio% -DmdpCorio=%passCorio%",
+			"-Durl=%url% -Dport=%port% -Dssid=%ssid% -Duser=%user% -Durl=%urlCorio% -Dport=%portCorio% -Dssid=%ssidCorio% -Duser=%userCorio% ",
+			"",
+			"\\t",
+			"rendered=\"#{docBudgFrom.m52Enabled or ",
+			"rendered=\"#{docBudgFrom.m71Enabled or ",
+			"        <dl>\n            <dt>\n                <h:outputLabel value=\"#{budgLabel.$1}\" rendered=\"#{docBudgFrom.m57Enabled}\"/>\n            </dt>\n            <dd>\n                <h:inputText id=\"$1\" value=\"#{docBudgFrom.budgetDTO.informationsGenerales['$1']}\" styleClass=\"w-50p\" rendered=\"#{docBudgFrom.m57Enabled}\">\n                    <f:validateLength minimum=\"0\" maximum=\"15\" />\n                </h:inputText>\n            </dd>\n        </dl>",
+			"rendered=\"#{docBudgFrom.m57Enabled or ",
+			"or docBudgFrom",
+			"rendered=\"#{docBudgFrom.m57Enabled or",
+			"",
+			"        <dl>\n            <dt>\n                <h:outputLabel value=\"#{budgLabel.$1}\" rendered=\"#{docBudgFrom.m14Enabled}\"/>\n            </dt>\n            <dd>\n                <h:inputText id=\"$1\" value=\"#{docBudgFrom.budgetDTO.informationsGenerales['$1']}\" styleClass=\"w-50p\" rendered=\"#{docBudgFrom.m14Enabled}\">\n                    <f:validateLength minimum=\"0\" maximum=\"15\" />\n                </h:inputText>\n            </dd>\n        </dl>",
+			"        <dl>\n            <dt>\n                <h:outputLabel value=\"#{budgLabel.$1}\" rendered=\"#{docBudgFrom.m14Enabled}\"/>\n            </dt>\n            <dd>\n                <h:inputText id=\"$1\" value=\"#{docBudgFrom.budgetDTO.informationsGenerales['$1']}\" styleClass=\"w-50p\" rendered=\"#{docBudgFrom.m14Enabled}\">\n                    <f:validateLength minimum=\"0\" maximum=\"15\" />\n                </h:inputText>\n            </dd>\n        </dl>   ",
+			"          <dl>\n            <dt>\n                <h:outputLabel value=\"#{budgLabel.$1}\" rendered=\"#{docBudgFrom.m14Enabled}\"/>\n            </dt>\n            <dd>\n                <h:inputText id=\"$1\" value=\"#{docBudgFrom.budgetDTO.informationsGenerales['$1']}\" styleClass=\"w-50p\" rendered=\"#{docBudgFrom.m14Enabled}\">\n                    <f:validateLength minimum=\"0\" maximum=\"15\" />\n                </h:inputText>\n            </dd>\n        </dl>   ",
+			" / ",
+			"        <dl>\n            <dt>\n                <h:outputLabel value=\"#{budgLabel.$1}\" rendered=\"#{docBudgFrom.m14Enabled}\"/>\n            </dt>\n            <dd>\n                <h:inputText id=\"$1\" value=\"#{docBudgFrom.budgetDTO.informationsGenerales['$1']}\" styleClass=\"w-50p\" rendered=\"#{docBudgFrom.m14Enabled}\">\n                    <f:validateLength minimum=\"0\" maximum=\"15\" />\n                </h:inputText>\n                &nbsp;&nbsp;\n                <h:inputText id=\"$2\" value=\"#{docBudgFrom.budgetDTO.informationsGenerales['$2']}\" styleClass=\"w-50p\" rendered=\"#{docBudgFrom.m14Enabled}\">\n                    <f:validateLength minimum=\"0\" maximum=\"15\" />\n                </h:inputText>\n            </dd>\n        </dl>",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+			"        <dl>\n            <dt>\n                <h:outputLabel value=\"#{budgLabel.$1}\" />\n            </dt>\n            <dd>\n                <h:inputText id=\"$1\" value=\"#{docBudgFrom.budgetDTO.informationsGenerales['$1']}\" styleClass=\"w-50p\" >\n                    <f:validateLength minimum=\"0\" maximum=\"15\" />\n                </h:inputText>\n                &nbsp;&nbsp;\n                <h:inputText id=\"$2\" value=\"#{docBudgFrom.budgetDTO.informationsGenerales['$2']}\" styleClass=\"w-50p\" >\n                    <f:validateLength minimum=\"0\" maximum=\"15\" />\n                </h:inputText>\n            </dd>\n        </dl>",
+			"=",
+			"        <dl>\n            <dt>\n                <h:outputLabel value=\"#{budgLabel.$1}\" />\n            </dt>\n            <dd>\n                <h:inputText id=\"$1\" value=\"#{docBudgFrom.budgetDTO.informationsGenerales['$1']}\" styleClass=\"w-50p\">\n                    <f:validateLength minimum=\"0\" maximum=\"12\" />\n                </h:inputText>\n            </dd>\n        </dl>",
+			"V1.7.9",
+			"$1",
+			"$1 -> $2",
+			".",
+			"\\n~/",
+			"\\nat ",
+			"\\n",
+			"\"$2\";\"$10\";\"$14\";\"$16\";\"$19\"",
+			"\"$2\";\"$10\";\"$14\";\"$18\"",
+			"\"$2\";\"$10\";\"$14\";\"$17\"",
+			"\"$2\";\"$10\";\"$13\";\"$15\"",
+			"",
+			"$1",
+			"%1",
+			"$1",
+			"$2",
+			"</APCP>\n",
+			"V=\".*\"",
+			"",
+			"            mainRequest.append(\"BUDM.BUDMTYP = '\" + etape +\"' \");",
+			"(\"",
+			" \")",
+			"1.7.7",
+			"1.7.8",
+			"tableau",
+			"",
+			"info"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "question.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "traduire.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/traduire.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/question.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/resource.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/core.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								538,
+								538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "outThere.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"budg.properties",
+				"CoribudgTrunk\\coribudg\\coribudg-web\\src\\main\\resources\\app\\budg.properties"
+			],
+			[
+				"creat",
+				"distribution\\src\\main\\sql\\Vues\\createview.sql"
+			],
+			[
+				"cre",
+				"distribution\\src\\main\\sql\\Vues\\createview.sql"
+			],
+			[
+				"m52m71",
+				"coribudg\\coribudg-business\\src\\main\\java\\fr\\bull\\coriolis\\coribudg\\docbudg\\util\\generateur\\GenerateurRequeteDbapcpExecutionCaM52M71.java"
+			],
+			[
+				"pom",
+				"distribution\\pom.xml"
+			],
+			[
+				"crea",
+				"distribution\\src\\main\\sql\\Vues\\createview.sql"
+			],
+			[
+				"",
+				"alias.txt"
+			],
+			[
+				"conn",
+				"trunk\\Web\\Coriolis.Server\\ConnectionStrings.config"
+			],
+			[
+				"informations_financieres_",
+				"tomcat\\46\\4.6_maint\\apache-tomcat-6.0.37\\webapps\\coriolis\\modules\\gmd\\marcheDecoupage\\sections\\informations_financieres_decoupages.xhtml"
+			],
+			[
+				"pageco",
+				"svn\\46\\4.6_maint\\Serveur_Pres\\web\\bin\\defaultroot\\modules\\gmd\\contractant\\pageContractant.xhtml"
+			],
+			[
+				"pagecont",
+				"svn\\46\\4.6_maint\\Serveur_Pres\\web\\defaultroot\\modules\\gmd\\contractant\\pageContractant.xhtml"
+			],
+			[
+				"pagec",
+				"svn\\46\\4.6_maint\\Serveur_Pres\\web\\defaultroot\\modules\\gmd\\contractant\\pageContractant.xhtml"
+			],
+			[
+				"budg",
+				"CoribudgTrunk\\coribudg\\coribudg-web\\src\\main\\resources\\app\\budg.properties"
+			],
+			[
+				"cor",
+				"apache-tomcat-DEV\\logs\\coribudg.log"
+			],
+			[
+				"cori",
+				"apache-tomcat-DEV\\logs\\coribudg.log"
+			],
+			[
+				"etape4",
+				"coribudg\\coribudg-web\\src\\main\\webapp\\app\\budget\\Copy of etape4.xhtml"
+			],
+			[
+				"etap",
+				"coribudg\\coribudg-web\\src\\main\\webapp\\app\\budget\\etape4.xhtml"
+			],
+			[
+				"budg.pro",
+				"coribudg\\coribudg-web\\src\\main\\resources\\app\\budg.properties"
+			],
+			[
+				"budg.proper",
+				"coribudg\\coribudg-web\\target\\classes\\app\\budg.properties"
+			],
+			[
+				"generateurrequeteanextiers",
+				"CORIBUDG\\coribudg\\coribudg-business\\src\\main\\java\\fr\\bull\\coriolis\\coribudg\\docbudg\\util\\generateur\\GenerateurRequeteAnexTiers.java"
+			],
+			[
+				"docbudggenerationcontroller.java",
+				"CORIBUDG\\coribudg\\coribudg-web\\src\\main\\java\\fr\\bull\\coriolis\\coribudg\\web\\controllers\\DocBudgGenerationController.java"
+			],
+			[
+				"log",
+				"computerCraft\\API\\log.lua"
+			],
+			[
+				"tablea",
+				"computerCraft\\API\\tableau.lua"
+			],
+			[
+				"par",
+				"computerCraft\\API\\parametre.lua"
+			],
+			[
+				"con",
+				"computerCraft\\API\\constante.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
