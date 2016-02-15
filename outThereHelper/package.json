@@ -1,0 +1,17 @@
+{
+  "main": "traduire.html",
+  "name": "Aide pour Out There",
+  "window": {
+    "title": "Aide pour Out There",
+    "icon": "link.png",
+    //"toolbar": false,
+    "frame": true,
+    "width": 700,
+    "height": 810,
+    "position": "center",
+    "min_width": 600,
+    "min_height": 400
+    //"max_width": 800,
+    //"max_height": 600
+  }
+}

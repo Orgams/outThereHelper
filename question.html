@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr" ng-app="app">
   <head>
     <title>Aide pour Out There</title>
     <script src="js/jquery-1.12.0.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/bootstrap-notify.min.js"></script>
-    <script src="js/resource.js"></script>
+    <script src="js/angular.min.js"></script>
     <script src="js/core.js"></script>
-    <script src="js/question.js"></script>
+    <script src="js/resource.js"></script>
+    <script src="js/questions.js"></script>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
   </head>
@@ -17,5 +18,8 @@
       <li role="presentation" class="active"><a href="#">Question</a></li>
       <li role="presentation"><a href="metaux.html">Metaux</a></li>
     </ul>
+    <section ng-controller="quesCtrl" class="col-xs-10 col-xs-push-1">
+      <textarea ng-repeat="question in questions" class='form-control'>{{question}}</textarea>
+    </section>
   </body>
 </html>

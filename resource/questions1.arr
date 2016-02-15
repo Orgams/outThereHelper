@@ -1,1 +1,0 @@
-["toi ami", "toi amour juges/architectes", "toi vouloir vie", "toi ami peuple mort", "toi amour mal NOMPEUPLE", "toi amour peuple NOMPEUPLE", "toi etoile fer bon", "toi mal toi mort", "toi vouloir ami NOMPEUPLE", "toi vouloir mort NOMPEUPLE"]
